@@ -1,0 +1,16 @@
+D:\PROJECTS\C#\Microservices\eCommerceSolution.UsersService\eCommerce.Infrastructure\bin\Debug\net9.0\eCommerce.Infrastructure.deps.json
+D:\PROJECTS\C#\Microservices\eCommerceSolution.UsersService\eCommerce.Infrastructure\bin\Debug\net9.0\eCommerce.Infrastructure.dll
+D:\PROJECTS\C#\Microservices\eCommerceSolution.UsersService\eCommerce.Infrastructure\bin\Debug\net9.0\eCommerce.Infrastructure.pdb
+D:\PROJECTS\C#\Microservices\eCommerceSolution.UsersService\eCommerce.Infrastructure\bin\Debug\net9.0\eCommerce.Core.dll
+D:\PROJECTS\C#\Microservices\eCommerceSolution.UsersService\eCommerce.Infrastructure\bin\Debug\net9.0\eCommerce.Core.pdb
+D:\PROJECTS\C#\Microservices\eCommerceSolution.UsersService\eCommerce.Infrastructure\obj\Debug\net9.0\eCommerce.Infrastructure.csproj.AssemblyReference.cache
+D:\PROJECTS\C#\Microservices\eCommerceSolution.UsersService\eCommerce.Infrastructure\obj\Debug\net9.0\eCommerce.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\C#\Microservices\eCommerceSolution.UsersService\eCommerce.Infrastructure\obj\Debug\net9.0\eCommerce.Infrastructure.AssemblyInfoInputs.cache
+D:\PROJECTS\C#\Microservices\eCommerceSolution.UsersService\eCommerce.Infrastructure\obj\Debug\net9.0\eCommerce.Infrastructure.AssemblyInfo.cs
+D:\PROJECTS\C#\Microservices\eCommerceSolution.UsersService\eCommerce.Infrastructure\obj\Debug\net9.0\eCommerce.Infrastructure.csproj.CoreCompileInputs.cache
+D:\PROJECTS\C#\Microservices\eCommerceSolution.UsersService\eCommerce.Infrastructure\obj\Debug\net9.0\eCommerce.Infrastructure.sourcelink.json
+D:\PROJECTS\C#\Microservices\eCommerceSolution.UsersService\eCommerce.Infrastructure\obj\Debug\net9.0\eCommerc.0C272DDA.Up2Date
+D:\PROJECTS\C#\Microservices\eCommerceSolution.UsersService\eCommerce.Infrastructure\obj\Debug\net9.0\eCommerce.Infrastructure.dll
+D:\PROJECTS\C#\Microservices\eCommerceSolution.UsersService\eCommerce.Infrastructure\obj\Debug\net9.0\refint\eCommerce.Infrastructure.dll
+D:\PROJECTS\C#\Microservices\eCommerceSolution.UsersService\eCommerce.Infrastructure\obj\Debug\net9.0\eCommerce.Infrastructure.pdb
+D:\PROJECTS\C#\Microservices\eCommerceSolution.UsersService\eCommerce.Infrastructure\obj\Debug\net9.0\ref\eCommerce.Infrastructure.dll

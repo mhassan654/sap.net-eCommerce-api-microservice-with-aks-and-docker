@@ -7,4 +7,18 @@ public record AuthenticationResponse(
     string? Gender,
     string? Token,
     bool Success
-    );
+)
+{
+    //parameterless constructor
+    public AuthenticationResponse() : this(
+        default,
+        default,
+        default,
+        default,
+        default,
+        default
+    )
+    {
+        
+    }
+}
