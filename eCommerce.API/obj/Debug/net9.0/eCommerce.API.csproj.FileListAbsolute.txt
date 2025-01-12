@@ -34,3 +34,9 @@ D:\PROJECTS\C#\Microservices\eCommerceSolution.UsersService\eCommerce.API\obj\De
 D:\PROJECTS\C#\Microservices\eCommerceSolution.UsersService\eCommerce.API\obj\Debug\net9.0\eCommerce.API.genruntimeconfig.cache
 D:\PROJECTS\C#\Microservices\eCommerceSolution.UsersService\eCommerce.API\obj\Debug\net9.0\ref\eCommerce.API.dll
 D:\PROJECTS\C#\Microservices\eCommerceSolution.UsersService\eCommerce.API\bin\Debug\net9.0\AutoMapper.dll
+D:\PROJECTS\C#\Microservices\eCommerceSolution.UsersService\eCommerce.API\bin\Debug\net9.0\Dapper.dll
+D:\PROJECTS\C#\Microservices\eCommerceSolution.UsersService\eCommerce.API\bin\Debug\net9.0\Npgsql.dll
+D:\PROJECTS\C#\Microservices\eCommerceSolution.UsersService\eCommerce.API\bin\Debug\net9.0\FluentValidation.dll
+D:\PROJECTS\C#\Microservices\eCommerceSolution.UsersService\eCommerce.API\bin\Debug\net9.0\FluentValidation.AspNetCore.dll
+D:\PROJECTS\C#\Microservices\eCommerceSolution.UsersService\eCommerce.API\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\PROJECTS\C#\Microservices\eCommerceSolution.UsersService\eCommerce.API\obj\Debug\net9.0\eCommerce.API.MvcApplicationPartsAssemblyInfo.cs

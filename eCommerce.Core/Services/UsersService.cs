@@ -32,6 +32,7 @@ internal class UsersService: IUsersService
        //     user.Gender,
        //     "token",
        //     Success: true);
+
        return _mapper.Map<AuthenticationResponse>(user) with
        {
            Success = true, Token = "token"

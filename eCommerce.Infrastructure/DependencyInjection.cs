@@ -5,6 +5,7 @@ using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 using eCommerce.Core.RepositoryContracts;
+using eCommerce.Infrastructure.DbContext;
 using eCommerce.Infrastructure.Repositories;
 using Microsoft.Extensions.DependencyInjection;
 
@@ -16,6 +17,7 @@ public static class DependencyInjection
     {
         //TO DO: Add Infrastructure services here IoC container
         services.AddSingleton<IUsersRepository, UserRepository>();
+        services.AddTransient<DapperDbContext>();
         return services;
     }
 }
