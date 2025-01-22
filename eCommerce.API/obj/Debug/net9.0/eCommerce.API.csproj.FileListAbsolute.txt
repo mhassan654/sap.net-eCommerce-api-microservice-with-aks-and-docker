@@ -40,3 +40,7 @@ D:\PROJECTS\C#\Microservices\eCommerceSolution.UsersService\eCommerce.API\bin\De
 D:\PROJECTS\C#\Microservices\eCommerceSolution.UsersService\eCommerce.API\bin\Debug\net9.0\FluentValidation.AspNetCore.dll
 D:\PROJECTS\C#\Microservices\eCommerceSolution.UsersService\eCommerce.API\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
 D:\PROJECTS\C#\Microservices\eCommerceSolution.UsersService\eCommerce.API\obj\Debug\net9.0\eCommerce.API.MvcApplicationPartsAssemblyInfo.cs
+D:\PROJECTS\C#\Microservices\eCommerceSolution.UsersService\eCommerce.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\PROJECTS\C#\Microservices\eCommerceSolution.UsersService\eCommerce.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PROJECTS\C#\Microservices\eCommerceSolution.UsersService\eCommerce.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PROJECTS\C#\Microservices\eCommerceSolution.UsersService\eCommerce.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll

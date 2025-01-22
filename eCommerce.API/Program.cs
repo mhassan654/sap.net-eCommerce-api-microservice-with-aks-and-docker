@@ -26,6 +26,23 @@ builder.Services.AddAutoMapper(
 //fluentvalidations
 builder.Services.AddFluentValidationAutoValidation();
 
+// add api explorer services
+builder.Services.AddEndpointsApiExplorer();
+
+// add swagger generation services to create swagger sepcifications
+builder.Services.AddSwaggerGen();
+
+// add cors services
+builder.Services.AddCors(options =>
+{
+    options.AddDefaultPolicy(builder =>
+    {
+        builder.WithOrigins("http://localhost:4200")
+            .AllowAnyMethod()
+            .AllowAnyHeader();
+    });
+});
+
 // builder the web app
 var app = builder.Build();
 
@@ -34,6 +51,11 @@ app.UseExceptionHandlingMiddleware();
 
 // routing
 app.UseRouting();
+app.UseSwagger(); //adds endpoint that can serve the swagger json
+app.UseSwaggerUI(); // adds swagger UI (interactive page  to explore and test PI ENDPOINTS
+app.UseCors();
+
+
 
 
 // auth
