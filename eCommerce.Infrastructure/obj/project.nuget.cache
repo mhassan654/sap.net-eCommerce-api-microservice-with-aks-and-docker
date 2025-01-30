@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "eiyzcUPFOXA=",
+  "dgSpecHash": "KkU4j9Qcl2I=",
   "success": true,
   "projectFilePath": "D:\\PROJECTS\\C#\\Microservices\\eCommerceSolution.UsersService\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -16,12 +16,5 @@
     "C:\\Users\\SAAVATECH\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0\\microsoft.extensions.primitives.9.0.0.nupkg.sha512",
     "C:\\Users\\SAAVATECH\\.nuget\\packages\\npgsql\\9.0.2\\npgsql.9.0.2.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Error occurred while getting package vulnerability data: No such host is known. (api.nuget.org:443)"
-    }
-  ]
+  "logs": []
 }
